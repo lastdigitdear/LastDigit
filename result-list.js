@@ -1,11 +1,11 @@
 const resultList = [
      {
-            time: "N",
-            result: "https://lastdigitdear.github.io/LastDigit/img/261222M.jpg",
+            time: "E",
+            result: "/img/261222M.jpg",
         },
      {
             time: "D",
-            result: "https://lastdigitdear.github.io/LastDigit/img/261222M.jpg",
+            result: "/img/261222M.jpg",
         },
         {
             time: "M",
