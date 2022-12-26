@@ -3,7 +3,7 @@ const resultList = [
         // date: "TODAY",
         {
             time: "EVENING",
-            result: "MD131222.jpg",
+            result: "https://lastdigitdear.github.io/LastDigit/img/MD131222.jpg",
         },
     {
         time: "EVENING",
