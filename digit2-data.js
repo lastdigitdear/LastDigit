@@ -1,14 +1,14 @@
 const lastTwoDigit = [
      {
         date: "26/12/22",
-        mor: "81",
-        day: "15",
+        mor: "80",
+        day: "",
         eve: "",
     },
     {
-        date: "TODAY",
-        mor: "81",
-        day: "15",
+        date: "",
+        mor: "",
+        day: "",
         eve: "",
     },
     {
