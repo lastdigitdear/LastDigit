@@ -1,6 +1,4 @@
 const resultList = [
-    // date: "TODAY",
-        // date: "TODAY",
      {
             time: "D",
             result: "https://lastdigitdear.github.io/LastDigit/img/261222M.JPG",
@@ -22,11 +20,4 @@ const resultList = [
         result: "https://wallpapercave.com/wp/wp5609839.png",
     },
 
-
-    // {
-    //     date: "TODAY",
-    //     eveImage: "https://wallpapercave.com/wp/wp5609839.png",
-    //     dayImage: "https://pajulahti.com/wp-content/uploads/2017/04/500x500.jpeg",
-    //     morImage: "https://wallpaperaccess.com/full/2161333.jpg",
-    // },
 ];
