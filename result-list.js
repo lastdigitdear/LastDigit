@@ -1,9 +1,13 @@
 const resultList = [
     // date: "TODAY",
         // date: "TODAY",
+     {
+            time: "D",
+            result: "https://lastdigitdear.github.io/LastDigit/img/261222M.JPG",
+        },
         {
-            time: "EVENING",
-            result: "https://lastdigitdear.github.io/LastDigit/img/MD131222.jpg",
+            time: "M",
+            result: "https://lastdigitdear.github.io/LastDigit/img/261222M.JPG",
         },
     {
         time: "EVENING",
