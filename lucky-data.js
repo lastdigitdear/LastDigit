@@ -6,9 +6,9 @@ const dateTime = [
 ];
 const targetNumber = [
     {
-        mor: "6",
-        day: "1",
-        eve: "5",
-        ext: "3",
+        : "6",
+        : "1",
+        : "5",
+        : "3",
     },
 ];
