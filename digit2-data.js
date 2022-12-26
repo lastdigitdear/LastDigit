@@ -1,6 +1,6 @@
 const lastTwoDigit = [
      {
-        date: "26/12/2022",
+        date: "26/12/22",
         mor: "81",
         day: "15",
         eve: "",
