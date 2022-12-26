@@ -1,14 +1,14 @@
 const dateTime = [
     {
-        date: "30-12-22",
-        time: "12:00 PM",
+        date: "26-12-22",
+        time: " ",
     },
 ];
 const targetNumber = [
     {
-        mor: "48",
-        day: "95",
-        eve: "25",
-        ext: "",
+        mor: "6",
+        day: "1",
+        eve: "5",
+        ext: "3",
     },
 ];
