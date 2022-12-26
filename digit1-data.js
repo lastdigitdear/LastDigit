@@ -1,12 +1,12 @@
 const lastOneDigit = [
      {
-        date: "26/12/2022",
+        date: "26/12/22",
         mor: " ",
         day: " ",
         eve: " ",
     },
     {
-        date: "25/12/2022",
+        date: "25/12/22",
         mor: "8",
         day: "5",
         eve: "5",
