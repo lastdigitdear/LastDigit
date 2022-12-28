@@ -6,9 +6,9 @@ const dateTime = [
 ];
 const targetNumber = [
     {
-            : "6",
-            : "1",
-            : "5",
+            : "2",
+            : "0",
             : "3",
+            : "1",
     },
 ];
